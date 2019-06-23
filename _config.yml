@@ -26,3 +26,5 @@ google_analytics: UA-76952875-1
 
 # needed for travis-ci build
 exclude: [vendor]
+
+theme: jekyll-theme-architect
