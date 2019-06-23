@@ -9,19 +9,19 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://sadhu89.github.io/
+url: http://lmarulanda.github.io/
 baseurl: ""
-title: Carlos Rojas
-author: Carlos Rojas
+title: Laura Marulanda
+author: Laura Marulanda
 description: Personal blog and resume
 avatar: profile.jpeg
-email: carlos.sadhu@gmail.com
-github: sadhu89 # username
-twitter: CarlosSadhu
-linkedin: crojasn
-stackoverflow: users/4808245/carlos-sadhu-rojas-Ñiquen
-disqus: carlossadhu
-google_analytics: UA-76952875-1
+email: lauris037.lm@gmail.com
+github: lmarulanda # username
+twitter: 
+linkedin: lmarulanda
+stackoverflow: 
+disqus: 
+google_analytics: 
 
 
 # needed for travis-ci build
